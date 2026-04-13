@@ -1,7 +1,7 @@
 # Proyecto: Laboratorio SOC & Respuesta ante Incidentes con Wazuh
 
 ## 🛡️ Descripción del Proyecto
-Implementación de un entorno de **Security Operations Center (SOC)** para la detección, monitorización y respuesta automatizada ante ciberataques. El laboratorio simula un entorno de producción donde un servidor (Ubuntu) es monitorizado por un SIEM (Wazuh) para detectar y mitigar amenazas en tiempo real.
+Implementación de un entorno de **Security Operations Center (SOC)** para la detección, monitorización y respuesta automatizada ante ciberataques. El laboratorio simula un entorno de producción donde un servidor (Ubuntu) es monitorizado por un SIEM (Wazuh) para detectar y mitigar amenazas en tiempo real de la máquina atacante Kali.
 
 ## 🛠️ Stack Tecnológico
 - **SIEM:** Wazuh (Manager, Indexer, Dashboard).
